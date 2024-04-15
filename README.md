@@ -1,7 +1,9 @@
 # PCA-EXP-3-PARALLEL-REDUCTION-USING-UNROLLING-TECHNIQUES AY 23-24
 
 MAHALAKSHMI  K
+
 212222240057
+
 EX.NO.3
 
 <h1> <align=center> PARALLEL REDUCTION USING UNROLLING TECHNIQUES </h3>
@@ -86,7 +88,6 @@ Memory Deallocation
 
 ## PROGRAM:
 
-!pip install git+https://github.com/andreinechaev/nvcc4jupyter.git
 
 %load_ext nvcc4jupyter
 
